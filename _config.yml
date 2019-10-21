@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 绮林的blog
 subtitle:
-description:
+description: 有些心情需要记录下来
 keywords:
-author: John Doe
-language: en
+author: qilin55
+language: zh-CN
 timezone:
 
 # URL

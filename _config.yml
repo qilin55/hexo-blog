@@ -89,4 +89,6 @@ theme: apollo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:qilin55/qilin55.github.io.git
+  branch: master

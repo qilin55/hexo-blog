@@ -90,5 +90,5 @@ theme: cafe
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:qilin55/qilin55.github.io.git
+  repo: root@blog.sunqilin.club:/data/GitLibrary/hexo
   branch: master
